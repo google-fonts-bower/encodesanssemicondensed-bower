@@ -1,0 +1,17 @@
+{
+    "name": "encodesanssemicondensed-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Impallari Type, Andres Torresi, Jacques Le Bailly"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/encodesanssemicondensed-bower.git"
+    },
+    "description": "Encode Sans Semi Condensed font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
